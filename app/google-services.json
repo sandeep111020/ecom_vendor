@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011265610860",
+    "project_id": "interntaskvendor",
+    "storage_bucket": "interntaskvendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011265610860:android:343d7cbb3218ddb4272449",
+        "android_client_info": {
+          "package_name": "com.example.interntaskvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011265610860-eqf9njenqvdd3si4srcs287gdo44r3dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interntaskvendor",
+            "certificate_hash": "293197436b8df8d90f0ea914601303e268480132"
+          }
+        },
+        {
+          "client_id": "1011265610860-229n9bth7tqc4rn0irs9m699bedaob4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1DXBD7uNHPCvVhhXjjcDDAo5BEHlLVDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011265610860-229n9bth7tqc4rn0irs9m699bedaob4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
